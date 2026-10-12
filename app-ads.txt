@@ -1,3 +1,8 @@
+google.com, pub-2914543673992597, DIRECT, f08c47fec0942fa0
+start.io, 194547717, DIRECT
+pubnative.net, 1007349, RESELLER, d641df8625486a7b
+pubmatic.com, 166063, RESELLER, 5d62403b186f2ace
+conversantmedia.com, 100339, RESELLER, 03113cd04947736d
 start.io, 194547717, DIRECT
 pubnative.net, 1007349, RESELLER, d641df8625486a7b
 pubmatic.com, 166063, RESELLER, 5d62403b186f2ace
